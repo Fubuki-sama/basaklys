@@ -14,3 +14,9 @@ The program has the necessary adjustements to prevent common bugs from happening
 * Step 2: Ask the user how many times the predetermined text to be written on screen.
 + Step 3: Print the text to screen as many times as user wants.
 - Step 4: Report how many times it has written to user.
+
+## Aim Of This Program
+The reason I created this program was to learn how GitHub works and port this application into different platforms.
+
+#### Warning
+Başak is a fictional character, it does not represent of reference any real life person. 
