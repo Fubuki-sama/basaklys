@@ -18,5 +18,5 @@ The program has the necessary adjustements to prevent common bugs from happening
 ## Aim Of This Program
 The reason I created this program was to learn how GitHub works and port this application into different platforms.
 
-#### Warning
-Başak is a fictional character, it does not represent of reference any real life person. 
+###### Warning
+Başak is a fictional character, it does not represent or reference any real life person. 
