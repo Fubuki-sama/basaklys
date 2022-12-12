@@ -1,4 +1,4 @@
-# Basaklys
+# basaklys
 This is a simple program written in C language that says what Başak is according to your choices.
 
 ## Features
